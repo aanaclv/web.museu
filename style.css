@@ -166,7 +166,7 @@ input {
 }
 
 input.campo {
-   border: 1px solidd #ada484; 
+   border: 1px solid #ada484; 
 }
 
 input.botao {
@@ -183,5 +183,11 @@ fieldset {
 
  legend {
     display: none;
+ }
+
+.pessoas {
+    margin-top: 5px;
+
+
  }
 
